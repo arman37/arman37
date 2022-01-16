@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arman-bhuiyan" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="arman bhuiyan" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/armanbhuiyan37" target="blank">
-    <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="arman bhuiyan" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/nolan/64/linkedin.png" alt="arman bhuiyan" height="40" width="40" />
   </a>
   <a href="mailto:arman.it37@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/nolan/64/email.png" alt="arman bhuiyan" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/armanbhuiyan37" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="arman bhuiyan" height="40" width="40" />
   </a>
 </p>
 
