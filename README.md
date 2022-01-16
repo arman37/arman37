@@ -19,7 +19,7 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arman37&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman37&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman37&langs_count=10&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
 <br>
 <br>
