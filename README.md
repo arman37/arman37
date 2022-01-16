@@ -7,8 +7,8 @@
   <a href="https://twitter.com/armanbhuiyan37" target="blank">
     <img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="arman bhuiyan" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/arman.it37" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="arman bhuiyan" height="40" width="40" />
+  <a href="mailto:arman.it37@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/nolan/64/email.png" alt="arman bhuiyan" height="40" width="40" />
   </a>
 </p>
 
@@ -33,4 +33,4 @@
 <br>
 <br>
 
-- 📫 How to reach me **arman.it37@gmail.com**
+- 📫 Reach me via email **arman.it37@gmail.com**
